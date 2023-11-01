@@ -3,7 +3,7 @@
 # Stack Report
 ![](https://img.stackshare.io/repo.svg "repo") [TestOrganization0423/Gotest](https://github.com/TestOrganization0423/Gotest)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|117<br/>Tools used|1<br/>Contributors|11/01/23 <br/>Report generated|09/25/23<br/>Last commit date|
+|118<br/>Tools used|2<br/>Contributors|11/01/23 <br/>Report generated|11/01/23<br/>Last commit date|
 |------|------|------|------|
 </div>
 
@@ -118,7 +118,7 @@
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (10)
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (11)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2595/capybara.png' alt='Capybara'>
@@ -140,6 +140,14 @@
   <img width='36' height='36' src='https://img.stackshare.io/service/1046/git.png' alt='Git'>
   <br>
   <sub><a href="http://git-scm.com/">Git</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'>
+  <br>
+  <sub><a href="https://istio.io/">Istio</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -176,7 +184,9 @@
   <sub></sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'>
   <br>
   <sub><a href="https://github.com/jsdom/jsdom">jsdom</a></sub>
@@ -184,9 +194,7 @@
   <sub>v21.1.1</sub>
 </td>
 
-</tr>
-<tr>
-  <td align='center'>
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png' alt='npm'>
   <br>
   <sub><a href="https://www.npmjs.com/">npm</a></sub>
