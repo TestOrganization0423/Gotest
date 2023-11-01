@@ -1,11 +1,11 @@
 repo_name: TestOrganization0423/Gotest
-report_id: 3c1fefb4e19018f24f0cdcd9462697f7
+report_id: d40c0f40f35f28dc3943837be98b68b6
 repo_type: Public
-timestamp: '2023-11-01T10:56:43+00:00'
+timestamp: '2023-11-01T11:02:36+00:00'
 requested_by: 
 provider: github
 branch: main
-detected_tools_count: 117
+detected_tools_count: 118
 tools:
 - name: Handlebars.js
   description: Minimal Templating on Steroids
@@ -178,6 +178,18 @@ tools:
   imageURL: https://img.stackshare.io/service/1046/git.png
   detection_source:
   - Repo Metadata
+- name: Istio
+  description: Open platform to connect, manage, and secure microservices, by Google,
+    IBM, and Lyft
+  website_url: https://istio.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Microservices Tools
+  imageURL: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source:
+  - tech.yml
 - name: Mocha
   description: Simple, flexible, fun javascript test framework for node.js &amp; the
     browser
